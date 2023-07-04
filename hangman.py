@@ -298,7 +298,7 @@ chosen_word = random.choice(word_list)
 
 print(logo)
 
-print(f"Pssst, the solution is {chosen_word}")
+# print(f"Pssst, the solution is {chosen_word}")
 
 display = []
 for i in range(len(chosen_word)):
